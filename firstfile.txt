@@ -1,5 +1,6 @@
 This is my first repository
 new changes came in 
-Clours
 Fruits
 Countries
+Bangalore
+Hyderabad

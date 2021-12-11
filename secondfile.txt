@@ -4,3 +4,9 @@ Peacock
 Parrot
 Crow
 Humming bird
+List the animals
+DOg
+cat
+Skylark
+penguin
+swan
